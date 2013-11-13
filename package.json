@@ -1,31 +1,28 @@
 {
-  "name": "hubot-business-cat",
-  "version": "1.0.13",
+  "name": "hubot-yolo",
+  "version": "1.0.0",
   "description": "Business cat is summoned when business jargon is used",
   "main": "index.coffee",
   "author": {
-    "name": "Morgan Wigmanich",
-    "email": "okize123@gmail.com",
-    "url": "https://github.com/okize"
+    "name": "Brian Boyle",
+    "url": "https://github.com/bboyle87"
   },
   "keywords": [
     "hubot",
     "hubot-scripts",
-    "business",
-    "jargon",
-    "cat"
+    "yolo"
   ],
   "license": "MIT",
   "scripts": {
     "test": "script/test"
   },
-  "homepage": "https://github.com/okize/hubot-business-cat/",
+  "homepage": "https://github.com/bboyle87/hubot-yolo/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/okize/hubot-business-cat.git"
+    "url": "https://github.com/bboyle87/hubot-yolo.git"
   },
   "bugs": {
-    "url": "https://github.com/okize/hubot-business-cat/issues"
+    "url": "https://github.com/bboyle87/hubot-yolo/issues"
   },
   "dependencies": {
     "hubot": ">= 2.4.3",
