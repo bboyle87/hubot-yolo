@@ -1,7 +1,7 @@
 {
   "name": "hubot-yolo",
-  "version": "1.0.0",
-  "description": "Business cat is summoned when business jargon is used",
+  "version": "1.0.1",
+  "description": "Yolo",
   "main": "index.coffee",
   "author": {
     "name": "Brian Boyle",
@@ -28,6 +28,9 @@
     "hubot": ">= 2.4.3",
     "coffee-script": "~1.6"
   },
+  "engines": {
+      "node": ">=0.10.0"
+    },
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
