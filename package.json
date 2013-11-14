@@ -5,6 +5,7 @@
   "main": "index.coffee",
   "author": {
     "name": "Brian Boyle",
+    "email": "",
     "url": "https://github.com/bboyle87"
   },
   "keywords": [
