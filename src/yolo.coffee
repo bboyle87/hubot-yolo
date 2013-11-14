@@ -17,10 +17,8 @@
 #   Brian Boyle github bboyle87
 
 module.exports = (robot) ->
-  robot.hear /yolo/, (msg) ->
+  robot.hear /yolo/i, (msg) ->
     msg.send msg.random images
-
-
 
 images = [
   'http://i.imgur.com/5Ad1oEp.jpg',
